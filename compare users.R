@@ -1,3 +1,4 @@
+#' Generated with the help of ChatGPT and roxygen2 
 #' @title compare_users_goodreads
 #' @description 
   #' The S3 method can be used to compare two users' Goodreads data on reading trends, including genres, book length, favorite authors, and reading goals.
