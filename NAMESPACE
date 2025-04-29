@@ -1,0 +1,18 @@
+# Generated with a help of ChatGPT and roxygen2 -> do not edit by hand
+
+# Exported functions (available to users)
+export(import_goodreads)
+export(summarize_reading)
+export(plot_ratings_distribution)
+export(top_authors)
+export(bookshelves_summary)
+export(track_reading_goals)
+export(visualize_genres)
+export(compute_reading_trends)
+
+# Import specific functions from other packages
+importFrom(dplyr, filter, group_by, summarise, mutate, arrange)
+importFrom(ggplot2, ggplot, aes, geom_bar, geom_col, theme_minimal)
+importFrom(readr, read_csv)
+importFrom(lubridate, year)
+importFrom(tidyr, separate, unite)
