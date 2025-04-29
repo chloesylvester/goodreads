@@ -1,3 +1,4 @@
+#' Generated with the help of ChatGPT and roxygen2
 #' @title predict_next_year
 #' @description 
  #' Predict next year's reading goal, average book length, and top genre preferences based on historical Goodreads data.
