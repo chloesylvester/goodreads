@@ -1,8 +1,8 @@
 #' Generated with the help of ChatGPT and roxygen2 
 #' @title track_reading_goals
-#' @description 
-  #' This function calculates and visualizes progress toward a user's Goodreads yearly reading goal.
-  #' It counts how many books were marked as read in a given year and compares that to the goal number.
+#' @description - 
+  #' Calculate and visualize progress toward a user's yearly reading goal.
+  #' This code will count how many books were marked as "read" compared to "currently reading" or "want to read" within the given year and compares it to the goal set. 
 #' @name track_reading_goals
 #' @param data A data frame of Goodreads book data, ideally read using \code{import_goodreads()}.
 #' @param year Numeric value indicating the year to track (e.g., 2023).
