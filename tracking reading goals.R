@@ -1,3 +1,4 @@
+#' Generated with the help of ChatGPT and roxygen2 
 #' @title track_reading_goals
 #' @description 
   #' This function calculates and visualizes progress toward a user's Goodreads yearly reading goal.
