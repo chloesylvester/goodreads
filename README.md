@@ -14,4 +14,5 @@ Usage examples:
   Compare two users (will have to adjust the code if you want to include other users   data)
 
 Install with: install_github("chloesylvester/GoodreadsR")
+
 Blog post: https://chloesylvester.wordpress.com/2025/04/30/final/ 
