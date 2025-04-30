@@ -13,6 +13,8 @@ Usage examples:
   Visualize favorite books genres
   Compare two users (will have to adjust the code if you want to include other users   data)
 
+License: This project is licensed under the MIT License. 
+
 Install with: install_github("chloesylvester/GoodreadsR")
 
 Blog post: https://chloesylvester.wordpress.com/2025/04/30/final/ 
