@@ -5,7 +5,7 @@
 GoodreadsR is a package designed to help users analyze and visualize their reading habits. The goal of this package is to turn raw book data (from a .csv file) and turn it into useful information that can reflect a persons reading behavior.
 
 Installation instructions:
-  devtools::install_github("yourusername/GoodreadsR") will allow the user to export     their Goodreads file. To download your data, go into your Goodreads account under     Settings -> Export Library. 
+  devtools::install_github("yourusername/goodreads") will allow the user to export     their Goodreads file. To download your data, go into your Goodreads account under     Settings -> Export Library. 
 
 Usage examples:
   Import and clean Goodreads data
@@ -14,4 +14,4 @@ Usage examples:
   Compare two users (will have to adjust the code if you want to include other users   data)
 
 Install with: install_github("chloesylvester/GoodreadsR")
-Blog post: 
+Blog post: https://chloesylvester.wordpress.com/2025/04/30/final/ 
